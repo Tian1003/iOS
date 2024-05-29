@@ -1,13 +1,13 @@
 //
-//  _529UITestsLaunchTests.swift
-//  0529UITests
+//  ListUITestsLaunchTests.swift
+//  ListUITests
 //
 //  Created by 天 on 2024/5/29.
 //
 
 import XCTest
 
-final class _529UITestsLaunchTests: XCTestCase {
+final class ListUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
